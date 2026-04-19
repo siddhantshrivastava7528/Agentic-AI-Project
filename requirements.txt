@@ -1,0 +1,4 @@
+langgraph
+chromadb
+sentence-transformers
+streamlit
